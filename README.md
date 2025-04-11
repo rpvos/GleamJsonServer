@@ -6,13 +6,6 @@
 ```sh
 gleam add jsonserver@1
 ```
-```gleam
-import jsonserver
-
-pub fn main() {
-  // TODO: An example of the project in use
-}
-```
 
 Further documentation can be found at <https://hexdocs.pm/jsonserver>.
 
